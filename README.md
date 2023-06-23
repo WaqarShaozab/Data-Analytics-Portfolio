@@ -1,10 +1,11 @@
 # Waqar Shaozab - Data Analytics Portfolio
-## About
-Hello world, I'm Waqar! I have an analytical background in Biotechnology and Health Sciences and have completed the job-ready Google Data Analytics Professional Certificate training. I've demonstrated hands-on experience with data cleaning, data visualization, project management, interpreting and communicating data analytics findings. I have confidence in identifying patterns, trends and transforming complex data into actionable insights. Fluent in programming languages and a solid understanding of databases.
+## About Me
+Hello world, welcome to my portfolio! I'm Waqar and I have an analytical background in Biology and Health Sciences and have completed the job-ready Google Data Analytics Professional Certificate training. I've demonstrated hands-on experience with data cleaning, data visualization, project management, interpreting and communicating data analytics findings. I have confidence in identifying patterns, trends and transforming complex data into actionable insights. I'm fluent in programming languages and have a solid understanding of databases. I'm very excited to bring my technical and analytical skills to the field of data sceince as an entry-level data specialist/analyst. 
 
-My data journey is quite unique and actully began in the fall of 2018 when I was an undergraduate researcher for my university. I conducted an IRB approved, cross-sectional research study with a sample size of 200 people. The study aimed to measure social influences of vaping (e-cigarettes). During the study, I used pen-and-paper surveys to collect the data and processed and analyzed it using the Statistical Package for Social Sciences (SPSS). I really loved the process of research from start to finish and found it super facinating how you can get in-depth, high-level answers to questions about anything, just by using data! Soon after my research was completed, I graduated and went on to work in physical theapy. My original plan was to attend graduate school in this but after working in the industry for a year, I knew this wasn't for me.
-## Table of Contents
-## Portfolio Projects
+During my studies, I've learned how to use different tools for analysis including speadsheets, SQL, Tableau, R programming, and SPSS. I also have experience with laboratory practices, healthcare, data management, and customer relations, which I believe are valuable assets in my future role in data. 
+
+Now that I have completed a professonal certificate, I plan on continuing my education by completing more certificates. I want to hone my ability to work with complex data by mastering the usage of analytic tools and being able to share projects and track progress on this repository that showcase my skills.
+ 
 ## Education
 ## Certificates
 ## Contacts
