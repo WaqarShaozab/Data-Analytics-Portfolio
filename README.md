@@ -7,9 +7,13 @@ During my studies, I've learned how to use different tools for analysis includin
 Now that I have completed a professonal certificate, I plan on continuing my education by completing more certificates. I want to hone my ability to work with complex data by mastering the usage of analytic tools and being able to share projects and track progress on this repository to showcase my skills.
 ## Table of Contents
 ## Projects
+Cyclistic Bike-Sharing Analysis
+
+Exploring Crime Trends in Washington D.C.: A Tableau Data Analysis
 ## Education
 James Madison University, Harrisonburg, VA - Bachelor of Science, 2019
 
 Northern Virginia Community College, Sterling, VA - Associate of Science, 2016 
 ## Certificates
+Google, Online - Data Analytics Professional Certificate - 2023
 ## Contacts
