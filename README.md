@@ -1,10 +1,16 @@
 # Waqar Shaozab - Data Analytics Portfolio
 ## About Me
-Hello world, welcome to my portfolio! I'm Waqar and I have an analytical background in Biology and Health Sciences and have completed the job-ready Google Data Analytics Professional Certificate training. I've demonstrated hands-on experience with data cleaning, data visualization, project management, interpreting and communicating data analytics findings. I have confidence in identifying patterns, trends and transforming complex data into actionable insights. I'm fluent in programming languages and have a solid understanding of databases. I'm very excited to bring my technical and analytical skills to the field of data sceince as an entry-level data specialist/analyst. 
+Greetings, esteemed visitors! I extend a warm welcome to my portfolio corner. I am Waqar, a professional rooted in the realms of Biology and Health Sciences, and I proudly bear the insignia of a graduate from the Google Data Analytics Professional Certificate training program.
 
-During my studies, I've learned how to use different tools for analysis including speadsheets, SQL, Tableau, R programming, and SPSS. I also have experience with laboratory practices, healthcare, data management, and customer relations, which I believe are valuable assets in my future role in data. 
+I present to you a tapestry of hands-on experience, woven with expertise in data cleaning, the art of data visualization, meticulous project management, and the adeptness to elucidate and convey the revelations of data analytics. With an innate ability to discern patterns and unveil trends, I am adept at the alchemy of transforming intricate data into tangible insights, ready to be wielded for action.
 
-Now that I have completed a professonal certificate, I plan on continuing my education by completing more certificates. I want to hone my ability to work with complex data by mastering the usage of analytic tools and being able to share projects and track progress on this repository to showcase my skills.
+My linguistic proficiency extends to the dialects of programming languages, while my grasp on databases stands robust and unwavering. My enthusiasm knows no bounds as I embark on the journey to infuse the field of data science with my prowess, envisioning myself as an entry-level data specialist/analyst.
+
+Throughout my academic pursuits, I have unveiled the mysteries concealed within an arsenal of analytical tools, encompassing the likes of spreadsheets, SQL, Tableau, R programming, and SPSS. My journey also traces through the domains of laboratory protocols, healthcare dynamics, data stewardship, and the delicate art of nurturing customer relationships. These facets, I believe, will seamlessly interlock with my upcoming role in the data sphere.
+
+With the completion of a distinguished professional certificate, my path now leads me towards further enlightenment through the pursuit of additional certifications. My vision spans across honing my skills in managing intricate data landscapes, mastering the symphony of analytic tools, and showcasing my prowess through comprehensive projects housed in this repository.
+
+Join me as I script the next chapters of my journey, where education and action unite to forge a brighter and more insightful future.
 ## Table of Contents
 ## Projects
 Cyclistic Bike-Sharing Analysis
