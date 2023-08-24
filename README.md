@@ -12,6 +12,8 @@ With the completion of a distinguished professional certificate, my path now lea
 
 Join me as I script the next chapters of my journey, where education and action unite to forge a brighter and more insightful future.
 ## Table of Contents
+-Tableau
+-R Programming
 ## Projects
 Cyclistic Bike-Sharing Analysis
 
