@@ -11,12 +11,9 @@ Throughout my academic pursuits, I have unveiled the mysteries concealed within 
 With the completion of a distinguished professional certificate, my path now leads me towards further enlightenment through the pursuit of additional certifications. My vision spans across honing my skills in managing intricate data landscapes, mastering the symphony of analytic tools, and showcasing my prowess through comprehensive projects housed in this repository.
 
 Join me as I script the next chapters of my journey, where education and action unite to forge a brighter and more insightful future.
-## Table of Contents
-Tableau
 
-R Programming
 ## Projects
-Cyclistic Bike-Sharing Analysis
+Cyclistic Bike-Sharing: An Excel and R Programming Analysis
 
 Exploring Crime Trends in Washington D.C.: A Tableau Data Analysis
 ## Education
