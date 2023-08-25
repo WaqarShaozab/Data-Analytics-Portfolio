@@ -15,10 +15,13 @@ Join me as I script the next chapters of my journey, where education and action 
 ## Projects
 Cyclistic Bike-Sharing: An Excel and R Programming Analysis
 - Embark on an analytical journey through Cyclistic bike-sharing using the combined power of Excel and R programming. Discover key trends, optimize operations, and unveil insights that pedal towards a data-driven future.
+
 Exploring Crime Trends in Washington D.C.: A Tableau Data Analysis
 - Dive into the dynamic landscape of crime trends in Washington D.C. through an illuminating Tableau data analysis. Uncover patterns, anomalies, and insights that shape the city's safety narrative.
+  
 Exploring Social Influences on Vaping: Cross-Sectional Research Using SPSS
 -Delve into the realm of vaping's social influences through a cross-sectional research study powered by SPSS. Uncover nuanced insights into the factors driving vaping trends and their societal impact
+
 ## Education
 James Madison University, Harrisonburg, VA - Bachelor of Science, 2019
 
