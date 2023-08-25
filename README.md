@@ -18,6 +18,7 @@ Cyclistic Bike-Sharing: An Excel and R Programming Analysis
 Exploring Crime Trends in Washington D.C.: A Tableau Data Analysis
 
 Exploring Social Influences on Vaping: Cross-Sectional Research Using SPSS
+
 ## Education
 James Madison University, Harrisonburg, VA - Bachelor of Science, 2019
 
