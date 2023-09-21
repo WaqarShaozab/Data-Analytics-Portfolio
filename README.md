@@ -2,7 +2,7 @@
 ## About Me
 Hello world! I welcome you to my portfolio. I am Waqar, a professional whos background stems in Biology and Health Sciences, and I am proud to say I have successfully completed the Google Data Analytics Professional Certificate training program.
 
-I present to you hands-on experience in data cleaning, visualization, project management, and insightful analytical discoveries. With the ability to decipher patterns and unveil trends, I am confident in turning data into tangible insights.
+I present to you hands-on experience in data cleaning, visualization, project management, and generating insightful analytical discoveries. With the ability to decipher patterns and unveil trends, I am confident in turning data into tangible insights.
 
 Throughout my academic journey, I have been able to leverage an array of analytical tools, like spreadsheets, SQL, Tableau, R programming, and SPSS. My journey also inlcudes laboratory practices, healthcare dynamics, data integrity, maintaining and improving customer relationships. These skills, I believe, will greatly help me with my upcoming role in the data sphere.
 
