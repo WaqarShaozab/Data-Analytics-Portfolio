@@ -25,3 +25,5 @@ Northern Virginia Community College, Sterling, VA - Associate of Science, 2016
 ## Certificates
 Google, Online - Data Analytics Professional Certificate - 2023
 ## Contacts
+waqarshaozab@gmail.com
+https://www.linkedin.com/in/waqar-shaozab-881a9a12b/
