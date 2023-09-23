@@ -2,11 +2,11 @@
 ## About Me
 Hello world! I welcome you to my portfolio. I am Waqar, a professional whos background stems in Biology and Health Sciences, and I am proud to say I have successfully completed the Google Data Analytics Professional Certificate training program.
 
-I present to you hands-on experience in data cleaning, visualization, project management, and generating insightful analytical discoveries. With the ability to decipher patterns and unveil trends, I am confident in turning data into tangible insights.
+I present to you hands-on experience in data cleaning, visualization, project management, and seeking impactful analytical discoveries. With the ability to decipher patterns and unveil trends, I am confident in turning data into tangible insights.
 
-Throughout my academic journey, I have been able to leverage an array of analytical tools, like spreadsheets, SQL, Tableau, R programming, and SPSS. My journey also inlcudes laboratory practices, healthcare dynamics, data integrity, maintaining and improving customer relationships. These skills, I believe, will greatly help me with my upcoming role in the data sphere.
+Throughout my academic journey, I have been able to leverage an array of analytical tools, like spreadsheets, SQL, Tableau, R programming, and SPSS. My journey also inlcudes a high-level understanding of large databases, laboratory practices, healthcare education and industry knowledge, and maintaining and improving customer relationships. These skills, I believe, will greatly help me with my upcoming role in the data sphere.
 
-With the completion of the professional certificate, my next goal in education would be accumulating additional certificates/certifications. My goal is to improve my confidence in identifying patterns, trends, and transforming complex data into actionable insights. I want to showcase my prowess through comprehensive projects housed in this repository.
+With the completion of the professional certificate, my next goals are to accumulate additional certificates/certifications to improve my confidence in identifying patterns, trends, and transforming complex data into actionable insights. I want to showcase my skills through comprehensive projects housed in this repository.
 
 ## Projects
 Cyclistic Bike-Sharing: An Excel and R Programming Analysis
