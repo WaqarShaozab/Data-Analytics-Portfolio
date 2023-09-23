@@ -6,7 +6,7 @@ I present to you hands-on experience in data cleaning, visualization, project ma
 
 Throughout my academic journey, I have been able to leverage an array of analytical tools, like spreadsheets, SQL, Tableau, R programming, and SPSS. My journey also inlcudes a high-level understanding of large databases, laboratory practices, healthcare education and industry knowledge, and maintaining and improving customer relationships. These skills, I believe, will greatly help me with my upcoming role in the data sphere.
 
-With the completion of the professional certificate, my next goals are to accumulate additional certificates/certifications to improve my confidence in identifying patterns, trends, and transforming complex data into actionable insights. I want to showcase my skills through comprehensive projects housed in this repository.
+With the completion of the professional certificate, my next goals are to accumulate additional certificates/certifications. This is to improve my confidence in identifying patterns, trends, and transforming complex data into actionable insights. I want to showcase my skills through comprehensive projects housed in this repository.
 
 ## Projects
 Cyclistic Bike-Sharing: An Excel and R Programming Analysis
